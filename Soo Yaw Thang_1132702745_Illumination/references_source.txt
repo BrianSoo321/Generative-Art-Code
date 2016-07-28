@@ -1,0 +1,5 @@
+References:
+https://www.youtube.com/watch?v=RVYPx1aPYbo
+
+https://github.com/blyk/Music-Visualization/blob/master/MusicViz.pde
+
